@@ -19,6 +19,8 @@ Operating environment: PyCharm+Django 2.2+Python 3.7+MySQL
    
    Department information: Department number, department name, establishment date, contact phone number, person in charge, department introduction 
    
+   Doctor information: Doctor ID, login password, department, name, gender, age, doctor's photo, education, professional title, admission date, contact phone number, doctor introduction Educational information: Record number, educational title
+   
    Educational information: Record number, educational title
    
 
