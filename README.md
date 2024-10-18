@@ -17,6 +17,8 @@ Operating environment: PyCharm+Django 2.2+Python 3.7+MySQL
 
    User information: username, password, name, gender, photo, date of birth, ID card, place of origin, contact phone number, home address, registration time
    
+   Department information: Department number, department name, establishment date, contact phone number, person in charge, department introduction 
+   
    Educational information: Record number, educational title
    
 
