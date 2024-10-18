@@ -1,0 +1,43 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.10" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="19">
+            <item index="0" class="java.lang.String" itemvalue="autobahn" />
+            <item index="1" class="java.lang.String" itemvalue="uWSGI" />
+            <item index="2" class="java.lang.String" itemvalue="rcssmin" />
+            <item index="3" class="java.lang.String" itemvalue="rjsmin" />
+            <item index="4" class="java.lang.String" itemvalue="Django" />
+            <item index="5" class="java.lang.String" itemvalue="django-compressor" />
+            <item index="6" class="java.lang.String" itemvalue="django-haystack" />
+            <item index="7" class="java.lang.String" itemvalue="mysqlclient" />
+            <item index="8" class="java.lang.String" itemvalue="pywin32" />
+            <item index="9" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="10" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="11" class="java.lang.String" itemvalue="cffi" />
+            <item index="12" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="13" class="java.lang.String" itemvalue="lxml" />
+            <item index="14" class="java.lang.String" itemvalue="reportlab" />
+            <item index="15" class="java.lang.String" itemvalue="docx2pdf" />
+            <item index="16" class="java.lang.String" itemvalue="Pillow" />
+            <item index="17" class="java.lang.String" itemvalue="PyNaCl" />
+            <item index="18" class="java.lang.String" itemvalue="pytz" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
