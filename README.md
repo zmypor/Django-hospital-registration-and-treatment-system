@@ -15,15 +15,6 @@ Operating environment: PyCharm+Django 2.2+Python 3.7+MySQL
 
 (5) System administrator: Department information management, doctor information management, patient information management, appointment information management, news information management, message information management, user information management, etc. 
 
-    User information: username, password, name, gender, photo, date of birth, ID card, place of origin, contact phone number, home address, registration time
-    
-
-    Department information: Department number, department name, establishment date, contact phone number, person in charge, department introduction
-    
-
-    Doctor information: Doctor ID, login password, department, name, gender, age, doctor's photo, education, professional title, admission date, contact phone number, doctor introduction
-    
-
    Educational information: Record number, educational title
    
 
