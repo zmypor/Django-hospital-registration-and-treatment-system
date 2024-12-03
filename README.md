@@ -1,6 +1,5 @@
               
 This Project is a Django-based hospital registration and treatment system. It uses Django framework to build a fully functional online medical appointment platform, aiming to simulate the registration and treatment process of actual hospitals. It can help understand how to use web technology to solve the informationization problems in the medical industry. 
-It can help understand how to use web technology to solve the informationization problems in the medical industry.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Operating environment: PyCharm+Django 2.2+Python 3.7+MySQL
 
